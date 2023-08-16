@@ -1,8 +1,3 @@
-# Description
-
-**hacking-gemtek** is a reverse engineering project for a Gemtek home router (model WVRTM-127ACN) distributed in Italy by Linkem.
-
-
 Gemtek(Linkem) WVRTM-127ACN
 
 CPU1: MediaTek MT7621AT
