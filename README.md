@@ -1,3 +1,6 @@
+Preparing before installing openwrt.
+
+
 Gemtek(Linkem) WVRTM-127ACN
 
 CPU1: MediaTek MT7621AT
